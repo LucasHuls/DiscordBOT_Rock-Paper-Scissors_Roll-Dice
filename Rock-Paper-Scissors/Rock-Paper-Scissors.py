@@ -20,11 +20,7 @@ async def play(ctx, player_choice):
     print("Debug: Starting game.")
 
     options = ["ROCK", "PAPER", "SCISSORS"]
-    #is player choice valid
     
-
-
-
     if player_choice not in options:
         await ctx.channel.send("Invalid option!")
     else:

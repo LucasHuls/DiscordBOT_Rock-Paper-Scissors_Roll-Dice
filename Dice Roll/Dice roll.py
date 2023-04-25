@@ -1,5 +1,3 @@
-# Bot token "MTEwMDAyNTIyNDA1MDc2OTk2MQ.GbF7tO.9EIEw6e7GSSujnmawdY-RqyJ9FXrgYkS-77Wss"
-
 import discord, random
 from discord.ext import commands
 
