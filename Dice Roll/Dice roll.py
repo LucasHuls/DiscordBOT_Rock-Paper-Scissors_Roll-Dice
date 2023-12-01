@@ -15,7 +15,7 @@ def convert_number_to_emoji(dice):
     elif dice == 6:
         return ":six:"
 
-TOKEN = "MTEwMDAyNTIyNDA1MDc2OTk2MQ.GbF7tO.9EIEw6e7GSSujnmawdY-RqyJ9FXrgYkS-77Wss"
+TOKEN = "TOKEN"
 
 
 intents = discord.Intents.default()

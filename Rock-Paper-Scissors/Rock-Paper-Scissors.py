@@ -9,7 +9,7 @@ def convert_string_to_emoji(prompt):
         return ":rock:"
     elif prompt == "PAPER":
         return ":newspaper:"
-TOKEN = "MTEwMDAyNTIyNDA1MDc2OTk2MQ.GbF7tO.9EIEw6e7GSSujnmawdY-RqyJ9FXrgYkS-77Wss"
+TOKEN = "TOKEN"
 
 
 intents = discord.Intents.default()
